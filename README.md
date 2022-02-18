@@ -12,7 +12,7 @@
 
 
 <h2> My Github Stats </h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaj6006&show_icons=true&theme=dracula&locale=en" alt="minhaj6006" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaj6006&show_icons=true&theme=highcontrast&locale=en" alt="minhaj6006" /></p>
 
 <h2> Most Used Languages </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhaj6006&show_icons=true&theme=dracula&locale=en&layout=compact" alt="minhaj6006" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhaj6006&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="minhaj6006" /></p>
