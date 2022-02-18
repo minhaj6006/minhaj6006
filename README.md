@@ -14,6 +14,5 @@
 <h2> My Github Stats </h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaj6006&show_icons=true&theme=dracula&locale=en" alt="minhaj6006" /></p>
 
-<br />
 <h2> My Github Stats </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhaj6006&show_icons=true&theme=dracula&locale=en&layout=compact" alt="minhaj6006" /></p>
