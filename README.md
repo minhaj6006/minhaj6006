@@ -14,5 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaj6006&show_icons=true&theme=radical&hide_border=true&locale=en" alt="minhaj6006" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhaj6006&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="minhaj6006" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj6006&layout=compact)](https://github.com/minhaj6006/github-readme-stats)
 
