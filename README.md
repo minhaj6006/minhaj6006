@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minhaj ur Rehman</h1>
 <h3 align="center">A passionate Web developer from Karachi/Pakistan</h3>
 
-- 🌱 I’m currently learning **Next.js | React.js and enhancing my skills in the front-end.**
+- 🌱 I’m currently learning **Next.js and enhancing my skills in the front-end.**
 
 - 📫 How to reach me **minhaj6006@gmail.com**
 
